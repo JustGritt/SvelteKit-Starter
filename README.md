@@ -28,7 +28,7 @@ This will create an optimized version of your app in the `build` directory. You 
 
 ## Learn more
 
-To learn more about SvelteKit, check out the [documentation](https://kit.svelte.dev/docs). You can also find the [SvelteKit Discord](https://discord.gg/yy75DKk) and [SvelteKit subreddit](https://www.reddit.com/r/sveltekit/) helpful. If you have a question, you can ask it on [Stack Overflow](https://stackoverflow.com/questions/tagged/sveltekit) with the `svelte` or `sveltekit` tag.
+To learn more about SvelteKit, check out the [documentation](https://kit.svelte.dev/docs). You can also find the [SvelteKit Discord](https://discord.gg/svelte) and [SvelteKit subreddit](https://www.reddit.com/r/sveltekit/) helpful. If you have a question, you can ask it on [Stack Overflow](https://stackoverflow.com/questions/tagged/sveltekit) with the `svelte` or `sveltekit` tag.
 
 ## Deploy
 
